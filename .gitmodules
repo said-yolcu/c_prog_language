@@ -19,3 +19,6 @@
 [submodule "chapter_07"]
 	path = chapter_07
 	url = https://github.com/said-yolcu/c_prog_lang_ch_7.git
+[submodule "chapter_08"]
+	path = chapter_08
+	url = https://github.com/said-yolcu/c_prog_lang_ch_8.git
